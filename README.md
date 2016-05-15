@@ -8,7 +8,7 @@ This repository contains:
 
 1. `CookBook.md`, which describes the data and all summaries and transformations performed on the data.
 
-2. `run_analysis.R`, which transforms the original data set (see Data Set) and creates a new data set, which contains the averages of all the standard deviation and mean variable measurements for each subject and each activity.
+2. `run_analysis.R`, which transforms the original data set (see Data Set) and creates a new data set, which contains the averages of all the standard deviation and mean measurements for each subject and each activity.
 
 ## Data Set
 
