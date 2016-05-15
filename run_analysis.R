@@ -9,6 +9,7 @@
 # The activities are given descriptive names from the activity labels.
 # The subjects are read to create a new data set which contains the average
 # of each variable from the previous data set for each activity and each subject.
+# The new data set is written to an output file.
 
 library(dplyr)
 
