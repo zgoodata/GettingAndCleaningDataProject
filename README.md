@@ -22,4 +22,4 @@ Data set: [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20
 
 1. The `run_analysis.R` script requires the `dplyr` R package.
 
-2. The `run_analysis.R` script must be run from the directory in which the data set was unzipped, i.e., the `UCI HAR Dataset` directory should be in the current working directory.
+2. The `run_analysis.R` script must be run from the directory in which the data set was unzipped, i.e., the `'UCI HAR Dataset'` directory should be in the current working directory.
