@@ -62,5 +62,5 @@ dataAvg <- cbind(subjects, data) %>%        # Merge subject variable and data
            summarize_each(funs(mean))       # Call mean() for each variable over groups
 
 # Write data set to file
-# dataAvgFile <- './data_avg.txt'
-# write.table(dataAvg, dataAvgFile)
+dataAvgFile <- './data_avg.txt'
+write.table(dataAvg, dataAvgFile, row.names = FALSE)
